@@ -1,0 +1,56 @@
+html{ 
+	height: 100%;}
+*
+{ margin: 0;
+  padding: 0;}
+
+h1{
+	font: 30px Arial sans-serif; 
+	letter-spacing: 2px;
+	text-align: center;
+	font-weight: bold;
+}
+
+h2{
+	font: 25px Arial sans-serif; 
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+
+p{
+	font: 20px Verdana sans-serif; 
+	letter-spacing: 2px;
+}
+
+li{
+	font: 20px Verdana sans-serif; 
+	letter-spacing: 2px;
+}
+
+img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+}
+
+ul{
+	list-style-position: outside;
+}
+
+#Sublist{
+	padding-left: 50px;
+}
+
+#Header{
+	text-align: center;
+	font: 35px Arial sans-serif; 
+	background: #F2F2F2;
+}
+
+#Content{
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
